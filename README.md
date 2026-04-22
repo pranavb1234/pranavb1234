@@ -23,22 +23,33 @@
 </div>
 
 <!-- <h1 align="center">GitHub Statistics 📃</h1> -->
-<table>
-  	<tr>
-		<td colspan = "2"><a href = "https://prnvbh.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavb1234&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
-	</tr>
-	<tr>
-<!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td> -->
-<!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord_dark&hide_border=true"></a></td> -->
-		<td><a href="https://prnvbh.github.io"><img src="https://streak-stats.demolab.com?user=pranavb1234&theme=nord&hide_border=true"></a></td>
-		<td><a href="https://prnvbh.github.io"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavb1234&theme=nord_dark"></a></td>
-	</tr>
-	<!-- <tr>
-		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
-		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
-	</tr> -->
-	</table>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <a href="https://prnvbh.github.io">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavb1234&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=pranavb1234&theme=nord&hide_border=true">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavb1234&theme=nord_dark">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=pranavb1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranavb1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    </td>
+  </tr>
+</table>
 <!-- ------------------------------------------------------------------------------------ -->
 
 <!-- ------------------------------------------------------------------------------------ -->
 </details>
+
