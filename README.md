@@ -24,10 +24,7 @@
 
 <!-- <h1 align="center">GitHub Statistics 📃</h1> -->
 <table>
-  <tr>
-    <td colspan = "2"><a href="https://prnvbh.github.io"><img width=100% src="https://github-profile-trophy.vercel.app/?username=pranavb1234&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
-  </tr>
-	<tr>
+  	<tr>
 		<td colspan = "2"><a href = "https://prnvbh.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavb1234&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
